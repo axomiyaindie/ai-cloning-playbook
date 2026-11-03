@@ -11,3 +11,6 @@ lip-sync, and avatar generation.
 - [Open-source tools & resources](resources/tools.md)
 
 > Work in progress — guides landing soon.
+
+## Contributing
+See [CONTRIBUTING.md](CONTRIBUTING.md). Open-source only; consent and disclosure are mandatory.
